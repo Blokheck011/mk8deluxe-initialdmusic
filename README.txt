@@ -1,4 +1,6 @@
-This mod replaces all racing music with Initial D music. Regular laps: Kaioh - Nitrofire. Final laps: Manual - Gas gas gas.
+This mod replaces all racing music with Initial D music. 
+Regular laps: Kaioh - Nitrofire. 
+Final laps: Manual - Gas gas gas.
 
 For those with low bandwidth and the ability to run shell scripts or write code, 
 it's possible to copy the script and files located in /shellscript (this repo) to romfs/Audio/Resource/Stream/ in a romdump, 
